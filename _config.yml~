@@ -1,4 +1,2 @@
 name: New Paradigm Computing Labaoratory
 	markdown: kramdown
-
-permalink: /blog/:year/:month/:day/:title
