@@ -7,3 +7,4 @@ permalink: /people/
 	      <h1>NPC</h1><h2> Members of the New Paradigm Computing Laboratory</h2>
       </div><!-- /.blurb -->
 	      [Martin Lukac] (/lukac)
+[Link to a document]({{ site.baseurl }}{% link _collection/name-of-document.md %})
