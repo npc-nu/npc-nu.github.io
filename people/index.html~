@@ -3,13 +3,11 @@ layout: default
 title: People of New Paradigm Computing Laboratory
 permalink: /people/
 ---
-      <div class="blurb">
-	      <h1>NPC</h1><h2> Members of the New Paradigm Computing Laboratory</h2>
-      </div><!-- /.blurb -->
 
-	      - [Martin Lukac] (/people/lukac.md)
-	      - [Martin Lukac] (../people/lukac.md)
-	      - [Martin Lukac] (./lukac.md)
-	      - [Martin Lukac] (./lukac)
-	      - [Martin Lukac] (../people/lukac)
-	      - [Martin Lukac] (/people/lukac)
+- [Martin Lukac](/people/lukac.md)
+- [Martin Lukac](../people/lukac.md)
+- [Martin Lukac](./lukac.md)
+- [Martin Lukac](./lukac)
+- [Martin Lukac](../people/lukac)
+- [Martin Lukac](/people/lukac)
+
