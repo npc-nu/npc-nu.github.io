@@ -5,8 +5,6 @@ permalink: /people/
 ---
 
 - [Martin Lukac](/people/lukac.md)
-- [Martin Lukac](../people/lukac.md)
-- [Martin Lukac](./lukac.md)
 - [Martin Lukac](./lukac)
 - [Martin Lukac](../people/lukac)
 - [Martin Lukac](/people/lukac)
