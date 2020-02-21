@@ -5,23 +5,16 @@ permalink: /projects/
 ---
 
 - [Live-Feeling Communication](/projects/lfc.md)
+
 - [Meta Learning](/projects/lfc.md)
 
 - [Quantum Computing](/projects/quantum.md)
-  - XBOOLE Simulation of Quantum Circuits
-  - Bent functions Classification and Study
-  - Reversible Symmetric functions Study and Classification
-  - Quantum algorithms Templates
-  - Design of Quantum Circuits for the Gated Quantum Computers
-  - Reversible and Quantum Finite State Machines Analysis
 
-- Bio-Medical Data Collection and Analysis[+]
-  - Cough Analysis and Classification
+- [Bio-Medical Data Collection and Analysis](/project/biomed.md)
 
-- Optimal Models of Neural Networks
-  - Convolutional Neural Networks Optimization
+- [Optimal Models of Neural Networks](/projects/ai.md)
 
-
+- [Neuro-Cryptography](/project/neurocrypt.md)
 
 
 
