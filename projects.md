@@ -4,27 +4,17 @@ title: Projects of New Paradigm Computing Laboratory
 permalink: /projects/
 ---
 
-- Live-Feeling Communication[+]
-  - Real-Time Football Game Analysis and Prediction
-  - Gaze Prediction
-- Meta Learning[+]
-  - Algorithm Selection and Meta Learning
+- [Live-Feeling Communication](/projects/lfc.md)
 
-- Quantum Computing[+]
-  - XBOOLE Simulation of Quantum Circuits
-  - Bent functions Classification and Study
-  - Reversible Symmetric functions Study and Classification
-  - Quantum algorithms Templates
-  - Design of Quantum Circuits for the Gated Quantum Computers
-  - Reversible and Quantum Finite State Machines Analysis
+- [Meta Learning](/projects/lfc.md)
 
-- Bio-Medical Data Collection and Analysis[+]
-  - Cough Analysis and Classification
+- [Quantum Computing](/projects/quantum.md)
 
-- Optimal Models of Neural Networks
-  - Convolutional Neural Networks Optimization
+- [Bio-Medical Data Collection and Analysis](/project/biomed.md)
 
+- [Optimal Models of Neural Networks](/projects/ai.md)
 
+- [Neuro-Cryptography](/project/neurocrypt.md)
 
 
 
