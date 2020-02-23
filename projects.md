@@ -10,7 +10,8 @@ permalink: /projects/
 - Meta Learning
 [![Algorithm Selection](/images/platform1s.png)](/projects/as.md)
 
-- [Quantum Computing](/projects/quantum.md)
+- Quantum Computing
+[![Quantum Computing](/images/time_expansion_circuit.png)](/projects/qc.md)
 
 - [Bio-Medical Data Collection and Analysis](/project/biomed.md)
 
