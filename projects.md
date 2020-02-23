@@ -4,9 +4,7 @@ title: Projects of New Paradigm Computing Laboratory
 permalink: /projects/
 ---
 
-- [Live-feeling Communication](/projects/lfc.md)
-
-- [![live-Feeling Communication](/images/thehubs.png)](/projects/lfc.md)
+- [Live-feeling Communication] [![live-Feeling Communication](/images/thehubs.png)](/projects/lfc.md)
 
 - [Meta Learning](/projects/lfc.md)
 
