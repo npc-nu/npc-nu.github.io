@@ -8,6 +8,8 @@ permalink: /projects/
 
 - [![live-Feeling Communication](/images/good_detection.png =250x)](/projects/lfc.md)
 
+<a href="/projects/lfc.md"><img src="good_detection.png" width="200"></href>
+
 - [Meta Learning](/projects/lfc.md)
 
 - [Quantum Computing](/projects/quantum.md)
