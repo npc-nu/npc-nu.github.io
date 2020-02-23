@@ -7,7 +7,8 @@ permalink: /projects/
 - Live-feeling Communication 
 [![live-Feeling Communication](/images/thehubs.png)](/projects/lfc.md)
 
-- [Meta Learning](/projects/lfc.md)
+- Meta Learning
+[![Algorithm Selection](/images/platform1.png)](/projects/as.md)
 
 - [Quantum Computing](/projects/quantum.md)
 
