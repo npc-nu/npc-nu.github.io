@@ -8,7 +8,7 @@ permalink: /projects/
 
 - [![live-Feeling Communication](/images/good_detection.png =250x)](/projects/lfc.md)
 
-<a href="projects/lfc.html"><img src="images/good_detection.png" width="200">
+<a href="lfc.html"><img src="../images/good_detection.png" width="200">
 
 - [Meta Learning](/projects/lfc.md)
 
