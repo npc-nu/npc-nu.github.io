@@ -6,7 +6,7 @@ permalink: /projects/
 
 - [Live-feeling Communication](/projects/lfc.md)
 
-- [![live-Feeling Communication](/images/good_detection.png "tooltip")](/projects/lfc/md)
+- [![live-Feeling Communication](/images/good_detection.png "width=300px" "tooltip")](/projects/lfc.md)
 
 - [Meta Learning](/projects/lfc.md)
 
