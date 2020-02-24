@@ -18,7 +18,8 @@ permalink: /projects/
 
 <h2>Bio-Medical Data Collection and Analysis</h2>
 
-[Bio-Medical Data Collection and Analysis](/project/biomed.md)
+[![Bio-Medical Data Collection and Analysis](/images/cough.png)](/projects/biomed.md)
+
 
 <h2>Optimal Models of Neural Networks</h2>
 
