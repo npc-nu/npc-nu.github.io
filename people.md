@@ -60,7 +60,7 @@ permalink: /people/
 </div>
 </div>
 <div class="container" markdown="1">
-<div class="header" markdown="1">Saadat Nursulta
+<div class="header" markdown="1">Saadat Nursultan
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/yourimage.png" align="right" %}
