@@ -32,6 +32,13 @@ permalink: /people/
 </div>
 </div>
 <div class="container" markdown="1">
+<div class="header" markdown="1">Dzhamshed Khaitov
+</div>
+<div class="content" markdown="1" style="min-height: 200px;">
+{% include image.html url="/images/yourimage.png" align="right" %}
+</div>
+</div>
+<div class="container" markdown="1">
 <div class="header" markdown="1">Temirlan Turysbek
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
@@ -61,6 +68,21 @@ permalink: /people/
 </div>
 <div class="container" markdown="1">
 <div class="header" markdown="1">Saadat Nursultan
+</div>
+<div class="content" markdown="1" style="min-height: 200px;">
+{% include image.html url="/images/yourimage.png" align="right" %}
+</div>
+</div>
+<h3>External Members</h3>
+<div class="container" markdown="1">
+<div class="header" markdown="1">Alessandra Clementi
+</div>
+<div class="content" markdown="1" style="min-height: 200px;">
+{% include image.html url="/images/yourimage.png" align="right" %}
+</div>
+</div>
+<div class="container" markdown="1">
+<div class="header" markdown="1">Ferdinand Molnar
 </div>
 <div class="content" markdown="1" style="min-height: 200px;">
 {% include image.html url="/images/yourimage.png" align="right" %}
