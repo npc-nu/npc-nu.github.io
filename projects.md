@@ -14,7 +14,7 @@ permalink: /projects/
 
 <h2>Quantum Computing</h2>
 
-[![Quantum Computing](/images/time_expansion_circuit.png)](/projects/qc)
+[![Quantum Computing](/images/time_expansion_circuit.png)](/projects/quantum)
 
 <h2>Bio-Medical Data Collection and Analysis</h2>
 
@@ -27,7 +27,7 @@ permalink: /projects/
 
 <h2>Neuro-Cryptography</h2>
 
-[Neuro-Cryptography](/project/neurocrypt)
+[Neuro-Cryptography](/projects/neurocrypt)
 
 
 
