@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: project
 title: Quantum Computing
 ---
   - Bent functions Classification and Study
