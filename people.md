@@ -7,22 +7,22 @@ permalink: /people/
 <div class="header" markdown="1">Martin Lukac
 </div>
 <div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
+{% include simage.html url="/images/yourimage.png" align="right" %}
 </div>
 <div class="header" markdown="1">Kamila Abdiyeva
 </div>
 <div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
+{% include simage.html url="/images/yourimage.png" align="right" %}
 </div>
 <div class="header" markdown="1">Gulnaz Sterling
 </div>
 <div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
+{% include simage.html url="/images/yourimage.png" align="right" %}
 </div>
 <div class="header" markdown="1">Ayazkhan Bayanov
 </div>
 <div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
+{% include simage.html url="/images/yourimage.png" align="right" %}
 </div>
 <div class="header" markdown="1">Dzhamshed Khaitov
 </div>
