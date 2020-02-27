@@ -18,7 +18,7 @@ permalink: /people/
 </div>
 </div>
 <div class="container" markdown="1">
-<div class="header" markdown="1">Gulnaz Ongalbayeva
+<div class="header" markdown="1">Gulnaz Sterling
 </div>
 <div class="content" markdown="1" style="min-height: 100px;">
 {% include image.html url="/images/yourimage.png" align="right" %}
