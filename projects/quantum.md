@@ -24,7 +24,7 @@ title: Quantum Computing
 <h4> Publications</h4>
 
 - Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, 2019
-- Lukac, M. and Moraga, C. and Kameyama, M. Properties of Bent Functions in the Truth Domain, Information Digital Technologies, 2019, (IEEE Excellent Paper on Reliability Award)
+- Lukac, M. and Moraga, C. and Kameyama, M. Properties of Bent Functions in the Truth Domain, Information Digital Technologies, 2019,  (IEEE Excellent Paper on Reliability Award)
 - Lukac M., Steinbach B., Analysis of Quantumm Circuits with Classical Boolean Logic, International Workshop on Boolean Problems, IWSBP 2018, Online
 
 
