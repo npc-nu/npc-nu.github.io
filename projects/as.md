@@ -2,7 +2,7 @@
 layout: project
 title: Meta Learning
 ---
-<h3>Algorithm Selection and Meta Learning</h3>
+<h2>Algorithm Selection and Meta Learning</h2>
   
 The Meta-Learning is one of the available approaches for optimization of machine learning, knowledge discovery and reasoning. It offers a variety of possibilities such as algorithm design, algorithm merging, algorithm selection etc. In our group we study the application of algorithm selection and meta learning to real-world problems. In particular:
 
@@ -14,7 +14,7 @@ The Meta-Learning is one of the available approaches for optimization of machine
   
   - Reasoning for algorithm selection
 
-<h3>Publications</h3>
+<h2>Publications</h2>
 
 - Lukac M., Izbassarova N., Li A., Kameyama M., Algorthm Selection for Non-Linearly Separable Algorithms in Computer Vision, Euromicro Workshop on ML-IoT, Online, 2018
 - Lukac M., Abdiyeva K., Kim A., Kameyama M., Reasoning and Algorithm Selection Augmented Symbolic Segmentation, IEEE Technically Sponsored Intelligent Systems Conference (IntelliSys), pp. 259-266, 2017. 
