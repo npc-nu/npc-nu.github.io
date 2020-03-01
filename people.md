@@ -24,6 +24,11 @@ permalink: /people/
 <div class="content" markdown="1" style="min-height: 100px;">
 {% include simage.html url="/images/yourimage.png" align="right" %}
 </div>
+<div class="header" markdown="1">Gaziza Oteniyaz
+</div>
+<div class="content" markdown="1" style="min-height: 100px;">
+{% include simage.html url="/images/yourimage.png" align="right" %}
+</div>
 <div class="header" markdown="1">Dzhamshed Khaitov
 </div>
 <div class="content" markdown="1" style="min-height: 100px;">
