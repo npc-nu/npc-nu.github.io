@@ -6,7 +6,7 @@ permalink: /people/
 <div class="container" markdown="1">
 <div class="header" markdown="1">Martin Lukac
 </div>
-<div class="content" markdown="1" style="min-height: 100px;">
+<div class="content" markdown="1" style="max-height: 200px;">
 {% include simage.html url="/images/1587545687206.jpg" align="right" %}
 </div>
 <div class="header" markdown="1">Kamila Abdiyeva
