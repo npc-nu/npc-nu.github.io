@@ -1,85 +1,21 @@
 ---
-layout: default
+layout: people
 title: People of New Paradigm Computing Laboratory
 permalink: /people/
 ---
-<div class="container" markdown="1">
-<div class="header" markdown="1">Martin Lukac
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include simage.html url="/images/lukac.jpg" align="right" width="300" %}
-</div>
-<div class="header" markdown="1">Kamila Abdiyeva
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include simage.html url="/images/yourimage.png" align="right" %}
-</div>
-<div class="header" markdown="1">Gulnaz Sterling
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include simage.html url="/images/yourimage.png" align="right" %}
-</div>
-<div class="header" markdown="1">Ayazkhan Bayanov
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include simage.html url="/images/yourimage.png" align="right" %}
-</div>
-<div class="header" markdown="1">Gaziza Oteniyaz
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include simage.html url="/images/yourimage.png" align="right" %}
-</div>
-<div class="header" markdown="1">Dzhamshed Khaitov
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-<div class="header" markdown="1">Temirlan Turysbek
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
-<div class="container" markdown="1">
-<div class="header" markdown="1">Mansur Oshanov
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
-<div class="container" markdown="1">
-<div class="header" markdown="1">Nurzhan Sakenov
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
-<div class="container" markdown="1">
-<div class="header" markdown="1">Mukhit Yelemes
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
-<div class="container" markdown="1">
-<div class="header" markdown="1">Saadat Nursultan
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
+
+| Martin Lukac |   | Kamila Abdiyeva |   | Gulnaz Sterling |   | Ayazkhan Bayanov |
+|  ----  | ---- | ----  | ---- | ----  | ---- | ----  |
+| ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/yourimage.png) | | ![Gulnaz Sterling](/images/yourimage.png)  | | ![Ayazkhan Bayanov](/images/yourimage.png)  | 
+|  **Gaziza Oteniyaz**  |  | **Dzhamshed Khaitov** |  | **Temirlan Turysbek**  | | **Mansur Oshanov** |
+|  ![Gaziza Oteniyaz](/images/yourimage.png)  | | ![Dzhamshed Khaitov](/images/yourimage.png)  |  | ![Temirlan Turysbek](/images/yourimage.png)  |  | ![Mansur Oshanov](/images/yourimage.png)  |
+| **Nurzhan Sakenov** | | **Mukhit Yelemes** | | **Saadat Nursultan** |  | **Kairat Parpiyev**  |
+|![Nurzhan Sakenov](/images/yourimage.png)  | | ![Mukhit Yelemes](/images/yourimage.png)  |  | ![Saadat Nursultan](/images/yourimage.png)  | | ![Kairat Parpiyev](/images/yourimage.png)|
+
 <h3>External Members</h3>
-<div class="container" markdown="1">
-<div class="header" markdown="1">Alessandra Clementi
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
-<div class="container" markdown="1">
-<div class="header" markdown="1">Ferdinand Molnar
-</div>
-<div class="content" markdown="1" style="min-height: 100px;">
-{% include image.html url="/images/yourimage.png" align="right" %}
-</div>
-</div>
+
+| Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali |
+|  ----  | ---- | ----  | ---- | ----  |
+| ![Alessandra Clementi](/images/yourimage.png)  |  | ![Ferdinand Molnar](/images/yourimage.png)  |  | ![Syed Ali](/images/yourimage.png)  |
+
+
