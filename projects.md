@@ -6,9 +6,9 @@ permalink: /projects/
 
  <table style="width:100%">
   <tr>
-    <th>Firstname</th>
-    <th>Lastname</th>
-    <th>Age</th>
+    <h2>Live-feeling Communication</h2>
+
+[![live-Feeling Communication](/images/thehubs.png)](/projects/lfc)
   </tr>
   <tr>
     <td>Jill</td>
@@ -22,9 +22,7 @@ permalink: /projects/
   </tr>
 </table> 
 
-<h2>Live-feeling Communication</h2>
 
-[![live-Feeling Communication](/images/thehubs.png)](/projects/lfc)
 
 <h2>Meta Learning</h2>
 
