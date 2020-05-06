@@ -6,9 +6,8 @@ permalink: /projects/
 
  <table style="width:100%">
   <tr>
-    <h2>Live-feeling Communication</h2>
-
-[![live-Feeling Communication](/images/thehubs.png)](/projects/lfc)
+    <td>Live-feeling Communication</td>
+<td>[![live-Feeling Communication](/images/thehubs.png)](/projects/lfc)</td>
   </tr>
   <tr>
     <td>Jill</td>
