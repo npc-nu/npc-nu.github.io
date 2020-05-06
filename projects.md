@@ -4,28 +4,9 @@ title: Projects of New Paradigm Computing Laboratory
 permalink: /projects/
 ---
 
- <table style="width:100%">
-  <tr>
-    <td>Live-feeling Communication</td>
-<td>[![live-Feeling Communication](/images/thehubs.png)](/projects/lfc)</td>
-  </tr>
-  <tr>
-    <td>Jill</td>
-    <td>Smith</td>
-    <td>50</td>
-  </tr>
-  <tr>
-    <td>Eve</td>
-    <td>Jackson</td>
-    <td>94</td>
-  </tr>
-</table> 
-
-
-
-<h2>Meta Learning</h2>
-
-[![Algorithm Selection](/images/platform1s.png)](/projects/as)
+(Live-feeling Communication | Meta Learning |
+|---------------|---------------|
+| [![live-Feeling Communication](/images/thehubs.png)](/projects/lfc) | [![Algorithm Selection](/images/platform1s.png)](/projects/as) |
 
 <h2>Quantum Computing</h2>
 
