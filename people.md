@@ -14,7 +14,8 @@ permalink: /people/
 
 <h3>External Members</h3>
 
-| Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali | 
+| Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali |
+|  ----  | ---- | ----  | ---- | ----  |
 | ![Alessandra Clementi](/images/yourimage.png)  |  | ![Ferdinand Molnar](/images/yourimage.png)  |  | ![Syed Ali](/images/yourimage.png)  |
 
 
