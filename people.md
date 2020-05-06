@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: people
 title: People of New Paradigm Computing Laboratory
 permalink: /people/
 ---
