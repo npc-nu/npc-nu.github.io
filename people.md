@@ -3,7 +3,8 @@ layout: default
 title: People of New Paradigm Computing Laboratory
 permalink: /people/
 ---
-|Martin Lukac||Kamila Abdiyeva||Gulnaz Sterling||Ayazkhan Bayanov|
+
+| Martin Lukac || Kamila Abdiyeva || Gulnaz Sterling || Ayazkhan Bayanov |
 |  ----  | ---- | ----  | ---- | ----  | ---- | ----  |
 |{% include simage.html url="/images/lukac.jpg" align="right" width="300" %}| | {% include simage.html url="/images/yourimage.png" align="right" %} | | {% include simage.html url="/images/yourimage.png" align="right" %} | | {% include simage.html url="/images/yourimage.png" align="right" %} | 
 
