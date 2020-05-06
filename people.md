@@ -6,36 +6,15 @@ permalink: /people/
 
 | Martin Lukac |   | Kamila Abdiyeva |   | Gulnaz Sterling |   | Ayazkhan Bayanov |
 |  ----  | ---- | ----  | ---- | ----  | ---- | ----  |
-| {% include simage.html url="/images/lukac.jpg" align="right" width="300" %} | | {% include simage.html url="/images/yourimage.png" align="right" %} | | {% include simage.html url="/images/yourimage.png" align="right" %} | | {% include simage.html url="/images/yourimage.png" align="right" %} | 
-
-Gaziza Oteniyaz
-{% include simage.html url="/images/yourimage.png" align="right" %}
-
-Dzhamshed Khaitov
-{% include image.html url="/images/yourimage.png" align="right" %}
-
-Temirlan Turysbek
-{% include image.html url="/images/yourimage.png" align="right" %}
-
->Mansur Oshanov
-{% include image.html url="/images/yourimage.png" align="right" %}
-
-Nurzhan Sakenov
-{% include image.html url="/images/yourimage.png" align="right" %}
-
-Mukhit Yelemes
-{% include image.html url="/images/yourimage.png" align="right" %}
-
-Saadat Nursultan
-{% include image.html url="/images/yourimage.png" align="right" %}
+| ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/yourimage.png) | | ![Gulnaz Sterling](/images/yourimage.png)  | | ![Ayazkhan Bayanov](/images/yourimage.png)  | 
+|  **Gaziza Oteniyaz**  |  | **Dzhamshed Khaitov** |  | **Temirlan Turysbek**  | | **Mansur Oshanov** |
+|  ![Gaziza Oteniyaz](/images/yourimage.png)  | | ![Dzhamshed Khaitov](/images/yourimage.png)  |  | ![Temirlan Turysbek](/images/yourimage.png)  |  | ![Mansur Oshanov](/images/yourimage.png)  |
+| **Nurzhan Sakenov** | | **Mukhit Yelemes** | | **Saadat Nursultan** |  |   |
+|![Nurzhan Sakenov](/images/yourimage.png)  | | ![Mukhit Yelemes](/images/yourimage.png)  |  | ![Saadat Nursultan](/images/yourimage.png)  | | 
 
 <h3>External Members</h3>
 
- class="header" markdown="1">Alessandra Clementi
-{% include image.html url="/images/yourimage.png" align="right" %}
-
-
-Ferdinand Molnar
-{% include image.html url="/images/yourimage.png" align="right" %}
+| Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali | 
+| ![Alessandra Clementi](/images/yourimage.png)  |  | ![Ferdinand Molnar](/images/yourimage.png)  |  | ![Syed Ali](/images/yourimage.png)  |
 
 
