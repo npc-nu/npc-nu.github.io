@@ -6,7 +6,7 @@ permalink: /people/
 
 | Martin Lukac |   | Kamila Abdiyeva |   | Gulnaz Sterling |   | Ayazkhan Bayanov |
 |  ----  | ---- | ----  | ---- | ----  | ---- | ----  |
-| ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/yourimage.png) | | ![Gulnaz Sterling](/images/yourimage.png)  | | ![Ayazkhan Bayanov](/images/yourimage.png)  | 
+| ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/kamila.png) | | ![Gulnaz Sterling](/images/yourimage.png)  | | ![Ayazkhan Bayanov](/images/yourimage.png)  | 
 |  **Gaziza Oteniyaz**  |  | **Dzhamshed Khaitov** |  | **Temirlan Turysbek**  | | **Mansur Oshanov** |
 |  ![Gaziza Oteniyaz](/images/yourimage.png)  | | ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | ![Temirlan Turysbek](/images/temirlan1.png)  |  | ![Mansur Oshanov](/images/yourimage.png)  |
 | **Nurzhan Sakenov** | | **Mukhit Yelemes** | | **Saadat Nursultan** |  | **Kairat Parpiyev**  |
@@ -16,6 +16,6 @@ permalink: /people/
 
 | Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali |
 |  ----  | ---- | ----  | ---- | ----  |
-| ![Alessandra Clementi](/images/yourimage.png)  |  | ![Ferdinand Molnar](/images/yourimage.png)  |  | ![Syed Ali](/images/yourimage.png)  |
+| ![Alessandra Clementi](/images/yourimage.png)  |  | ![Ferdinand Molnar](/images/ferdinand.png)  |  | ![Syed Ali](/images/yourimage.png)  |
 
 
