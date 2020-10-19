@@ -17,7 +17,9 @@ permalink: /people/
 | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  | **Sherkhan Azimov** |  | **Rustem Turtayev** |
 | ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) |
 | **Nurdaulet Mukhituly** |  | **Nurperzent Shaidulin**  |  | **Gulnaz Shambulova** |  | **Tagir Nukenov** |
-| ![Nurdaulet Mukhituly](/images/yourimage.png)  | | ![Gulnaz Shambulova](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) |
+| ![Nurdaulet Mukhituly](/images/yourimage.png)  | | ![Gulnaz Shambulova](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) | | ![Tagir Nukenov](/images/yourimage.png) |
+| **Nazerke Turtayeva** |  | **Sanzhar Shabdarov**  |  | **** |  | **** |
+| ![Nazerke Turtayeva](/images/yourimage.png)  | | ![Sanzhar Shabdarov](/images/yourimage.png) | | ![](/images/yourimage.png) | | ![](/images/yourimage.png) |
 
 
 
