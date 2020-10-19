@@ -13,7 +13,7 @@ permalink: /people/
 |  ----  | ---- | ----  | ---- | ----  | ---- | ----  |
 | ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/kamila.png) | | ![Gulnaz Sterling](/images/yourimage.png)  | | ![Ayazkhan Bayanov](/images/yourimage.png)  | 
 |  **Gaziza Oteniyaz**  |  | **Dzhamshed Khaitov** |  | **Marat Isteleyev**  | | **Saltanat Khalyk** |
-|  ![Gaziza Oteniyaz](/images/yourimage.png)  | | ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | ![Marat Isteleyev](/images/temirlan1.png)  |  | ![Saltanat Khalyk](/images/yourimage.png)  |
+|  ![Gaziza Oteniyaz](/images/yourimage.png)  | | ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | ![Marat Isteleyev](/images/yourimage.png)  |  | ![Saltanat Khalyk](/images/yourimage.png)  |
 | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  | **Sherkhan Azimov** |  | **Sherkhan Azimov** |
 | ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) | | ![Sherkhan Azimov](/images/yourimage.png) |
 
