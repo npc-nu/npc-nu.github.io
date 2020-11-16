@@ -26,6 +26,7 @@ title: Quantum Computing
 - Quantum algorithms Templates
 
 <h2> Publications</h2>
+
 - Lukac, M. and Nursultan, S. and Krylov, G. and Keszoecze, O., Refactoring Quantum and Reversible Circuits, International Workshop on Quantum Compilation, 2020
 - Lukac, M. and Nursultan, S. and Krylov, G. and Keszoecze, O., Geometric Refactoring of Quantum and Reversible Circuits: Quantum Layout, Euromicro Digital System Design Conference 2020, Accepted 
 - Lukac M., Kameyama M., Perkowski M., Kerntopf P., Using Homing, Synchronizing and Distinguishing Input Sequences for the Analysis of Reversible Finite State Machines, Facta Universitatis Electronics and Energetics, 2019
