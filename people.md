@@ -32,10 +32,8 @@ permalink: /people/
 
 <h3>Past</h3>
 
- **Nurzhan Sakenov** 
-
- **Mukhit Yelemes** 
-
- **Mansur Oshanov** 
-
- **Temirlan Turysbek** 
+*Daniyar Kultayev*
+*Nurzhan Sakenov* 
+*Mukhit Yelemes*
+*Mansur Oshanov*
+*Temirlan Turysbek*
