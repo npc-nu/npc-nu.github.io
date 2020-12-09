@@ -33,7 +33,11 @@ permalink: /people/
 <h3>Past</h3>
 
 *Daniyar Kultayev*
+
 *Nurzhan Sakenov* 
+
 *Mukhit Yelemes*
+
 *Mansur Oshanov*
+
 *Temirlan Turysbek*
