@@ -15,7 +15,7 @@ permalink: /people/
 |  **Gaziza Oteniyaz**  |  | **Dzhamshed Khaitov** |  | **Marat Isteleyev**  | | **Saltanat Khalyk** |
 |  ![Gaziza Oteniyaz](/images/gaziza.png)  | | ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | ![Marat Isteleyev](/images/marat.png)  |  | ![Saltanat Khalyk](/images/saltanat.png)  |
 | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  | **Sherkhan Azimov** |  | **Rustem Turtayev** |
-| ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/KAIRAT.png) | | ![Sherkhan Azimov](/images/sherkhan.png) | | ![Rustem Turtayev](/images/rustem.png) |
+| ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/kairat.png) | | ![Sherkhan Azimov](/images/sherkhan.png) | | ![Rustem Turtayev](/images/rustem.png) |
 | **Nurdaulet Mukhituly** |  | **Nurperzent Shaidulin**  |  | **Gulnaz Shambulova** |  | **Tagir Nukenov** |
 | ![Nurdaulet Mukhituly](/images/minionB.png)  | | ![Nurperzent Shaidulin](/images/minionO.png) | | ![Gulnaz Shambulova](/images/gulnazZ.png) | | ![Tagir Nukenov](/images/minonsZ.png) |
 | **Nazerke Turtayeva** |  | **Sanzhar Shabdarov**  |  | **** |  | **** |
