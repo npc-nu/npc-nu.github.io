@@ -31,4 +31,5 @@ Expected results:
     Conducting conferences,workshops, meetings to share the scientific experience of young reseachers
 
 Links:
-    Project page: acesyri.eu
+
+    Project page: [[acesyri.eu](acesyri.eu)]
