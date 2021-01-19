@@ -29,3 +29,6 @@ Expected results:
     The creation of long-term cooperation platform for Kazakh and EU universities
     The development of virtual online portal
     Conducting conferences,workshops, meetings to share the scientific experience of young reseachers
+
+Links:
+    Project page: acesyri.eu
