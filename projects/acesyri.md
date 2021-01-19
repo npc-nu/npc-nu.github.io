@@ -34,10 +34,3 @@ Links:
 
     Project page: [acesyri.eu]({% acesyri.eu %})
 
-{{ site.baseurl }}{% link _collection/name-of-document.md %}
-
-{{ site.baseurl }}{% link _posts/2016-07-26-name-of-post.md %}
-
-{{ site.baseurl }}{% link news/index.html %}
-
-{{ site.baseurl }}{% link /assets/files/doc.pdf %}
