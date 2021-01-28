@@ -3,9 +3,9 @@ layout: project
 title: ACESYRI
 ---
 <h2> Advanced Center for Young researcherch and PhD Students in Informatics (ACESYRI)</h2>
-![ACESYRI](/images/ACeSYRI_Logo_01.png)
+![ACESYRI](/images/ACeSYRI_Logo_01S.png)
 <h3> An Erasmus+ CBHE Project</h3>
-![Erasmus](/images/ERASMUS+ (co funded).jpg)
+![Erasmus](/images/ERASMUS+ (co funded)S.jpg)
 
 On January 15, 2020, Advanced Centre for PhD Students and Young Researchers in Informatics (ACeSYRI) was started to provide an innovative infrastructure for international cooperation among students, researchers and teaching lecturers of Kazakh and European universities. This project will bring the education of graduate students closer to the generally accepted international rules and norms based on the internationalization of postgraduate education.
 
