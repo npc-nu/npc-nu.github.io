@@ -12,23 +12,23 @@ Project duration: 15 January 2020 – 15 January 2023
 
 Target group:  PhD students, young researchers, heads of higher education institutions, university lecturers and administration
 
-Project goals and objectives:
+<h4>Project goals and objectives:</h4>
 
-    To improve the research conditions of young researchers in Kazakhstan
-    To provide an innovative infrastructure for international cooperation among young researchers and teaching staff of Kazakh and European universities
-    To provide electronic platform for PhD students to find consultants in domains related to their research areas outside of Kazakhstan and involve them in international projects
+- To improve the research conditions of young researchers in Kazakhstan
+- To provide an innovative infrastructure for international cooperation among young researchers and teaching staff of Kazakh and European universities
+- To provide electronic platform for PhD students to find consultants in domains related to their research areas outside of Kazakhstan and involve them in international projects
 
 Activities:
 
-    To provide the publication opportunity for young researchers in the framework of the CERES journal
-    To provide the presentation venue for young researchers in special workshops organized by EU partners
-    To use ACeSYRI portal for professional communication and cooperation.
+- To provide the publication opportunity for young researchers in the framework of the CERES journal
+- To provide the presentation venue for young researchers in special workshops organized by EU partners
+- To use ACeSYRI portal for professional communication and cooperation.
 
 Expected results:
 
-    The creation of long-term cooperation platform for Kazakh and EU universities
-    The development of virtual online portal
-    Conducting conferences,workshops, meetings to share the scientific experience of young reseachers
+- The creation of long-term cooperation platform for Kazakh and EU universities
+- The development of virtual online portal
+- Conducting conferences,workshops, meetings to share the scientific experience of young reseachers
 
 Links:
 
