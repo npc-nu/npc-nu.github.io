@@ -32,9 +32,9 @@ Expected results:
 
 Links:
 
-  -![ACESYRI](https://acesyri.eu/)
+  - ![ACESYRI](https://acesyri.eu/)
   
-  -![ERASMUS](https://ec.europa.eu/programmes/erasmus-plus/node_en)
+  - ![ERASMUS](https://ec.europa.eu/programmes/erasmus-plus/node_en)
   
-  -![CBHE](https://eacea.ec.europa.eu/erasmus-plus/events/cbhe-how-to-prepare-your-project-proposal-2020_en)
+  - ![CBHE](https://eacea.ec.europa.eu/erasmus-plus/events/cbhe-how-to-prepare-your-project-proposal-2020_en)
  
