@@ -32,7 +32,7 @@ Expected results:
 
 Links:
 
-  - ![ACESYRI](https://acesyri.eu/)
+  - <a href="https://acesyri.eu/">ACESYRI</a>
   
   - ![ERASMUS](https://ec.europa.eu/programmes/erasmus-plus/node_en)
   
