@@ -18,23 +18,23 @@ Target group:  PhD students, young researchers, heads of higher education instit
 - To provide an innovative infrastructure for international cooperation among young researchers and teaching staff of Kazakh and European universities
 - To provide electronic platform for PhD students to find consultants in domains related to their research areas outside of Kazakhstan and involve them in international projects
 
-Activities:
+<h4>Activities:</h4>
 
 - To provide the publication opportunity for young researchers in the framework of the CERES journal
 - To provide the presentation venue for young researchers in special workshops organized by EU partners
 - To use ACeSYRI portal for professional communication and cooperation.
 
-Expected results:
+<h4>Expected results:</h4>
 
 - The creation of long-term cooperation platform for Kazakh and EU universities
 - The development of virtual online portal
 - Conducting conferences,workshops, meetings to share the scientific experience of young reseachers
 
-Links:
+<h4>Links:</h4>
 
-  - <a href="https://acesyri.eu/">ACESYRI</a>
+  - The project website: <a href="https://acesyri.eu/">ACESYRI</a>
   
-  - <a href="https://ec.europa.eu/programmes/erasmus-plus/node_en">ERASMUS</a>
+  - Erasmus main project page: <a href="https://ec.europa.eu/programmes/erasmus-plus/node_en">ERASMUS</a>
   
-  - <a href="https://eacea.ec.europa.eu/erasmus-plus/events/cbhe-how-to-prepare-your-project-proposal-2020_en">CBHE</a>
+  - Page of the CBHE program <a href="https://eacea.ec.europa.eu/erasmus-plus/events/cbhe-how-to-prepare-your-project-proposal-2020_en">CBHE</a>
  
