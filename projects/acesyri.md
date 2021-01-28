@@ -34,7 +34,7 @@ Links:
 
   - <a href="https://acesyri.eu/">ACESYRI</a>
   
-  - ![ERASMUS](https://ec.europa.eu/programmes/erasmus-plus/node_en)
+  - <a href="https://ec.europa.eu/programmes/erasmus-plus/node_en">ERASMUS</a>
   
-  - ![CBHE](https://eacea.ec.europa.eu/erasmus-plus/events/cbhe-how-to-prepare-your-project-proposal-2020_en)
+  - <a href="https://eacea.ec.europa.eu/erasmus-plus/events/cbhe-how-to-prepare-your-project-proposal-2020_en">CBHE</a>
  
