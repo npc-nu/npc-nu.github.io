@@ -9,17 +9,21 @@ permalink: /people/
 <h4>Internal Members</h4>
 
 
-| Martin Lukac |   | Kamila Abdiyeva |   | Gulnaz Sterling |   | Ayazkhan Bayanov |
-|  ----  | ---- | ----  | ---- | ----  | ---- | ----  |
-| ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/kamila.png) | | ![Gulnaz Sterling](/images/gulnazS.png)  | | ![Ayazkhan Bayanov](/images/MUSIC.png)  | 
-|  **Gaziza Oteniyaz**  |  | **Dzhamshed Khaitov** |  | **Marat Isteleyev**  | | **Saltanat Khalyk** |
-|  ![Gaziza Oteniyaz](/images/gaziza.png)  | | ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | ![Marat Isteleyev](/images/marat.png)  |  | ![Saltanat Khalyk](/images/saltanat.png)  |
-| **Saadat Nursultan** |  | **Kairat Parpiyev**  |  | **Sherkhan Azimov** |  | **Rustem Turtayev** |
-| ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/kairat.png) | | ![Sherkhan Azimov](/images/sherkhan.png) | | ![Rustem Turtayev](/images/rustem.png) |
-| **Nurdaulet Mukhituly** |  | **Nurperzent Shaidulin**  |  | **Gulnaz Shambulova** |  | **Tagir Nukenov** |
-| ![Nurdaulet Mukhituly](/images/minionB.png)  | | ![Nurperzent Shaidulin](/images/minionO.png) | | ![Gulnaz Shambulova](/images/gulnazZ.png) | | ![Tagir Nukenov](/images/minonsZ.png) |
-| **Nazerke Turtayeva** |  | **Sanzhar Shabdarov**  |  | **** |  | **** |
-| ![Nazerke Turtayeva](/images/nazerke.png)  | | ![Sanzhar Shabdarov](/images/sanzhar.png) | | ![](/images/yourimage.png) | | ![](/images/yourimage.png) |
+| **Martin Lukac** |   | **Kamila Abdiyeva** |   | **Gulnaz Sterling** |   | **Ayazkhan Bayanov** | |  **Gaziza Oteniyaz**  |  
+|  ----  | ---- | ----  | ---- | ----  | ---- | ----  | ----  |
+| ![Martin Lukac](/images/lukac.jpg)| | ![Kamila Abdiyeva](/images/kamila.png) | | ![Gulnaz Sterling](/images/gulnazS.png)  | | ![Ayazkhan Bayanov](/images/MUSIC.png)  | |  ![Gaziza Oteniyaz](/images/gaziza.png)  | 
+
+| **Dzhamshed Khaitov** |  | **Marat Isteleyev**  | | **Saltanat Khalyk** |  | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  
+| ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | ![Marat Isteleyev](/images/marat.png)  |  | ![Saltanat Khalyk](/images/saltanat.png)  | | ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/kairat.png) | 
+
+| **Sherkhan Azimov** |  | **Rustem Turtayev** | | **Nurdaulet Mukhituly** |  | **Nurperzent Shaidulin**  |  | **Gulnaz Shambulova** | 
+| ![Sherkhan Azimov](/images/sherkhan.png) | | ![Rustem Turtayev](/images/rustem.png) | | ![Nurdaulet Mukhituly](/images/minionB.png)  | | ![Nurperzent Shaidulin](/images/minionO.png) | | ![Gulnaz Shambulova](/images/gulnazZ.png) | 
+
+ | **Tagir Nukenov** | | **Nazerke Turtayeva** |  | **Sanzhar Shabdarov**  |  | **** |  | **** |
+| ![Tagir Nukenov](/images/minonsZ.png) || ![Nazerke Turtayeva](/images/nazerke.png)  | | ![Sanzhar Shabdarov](/images/sanzhar.png) | | ![](/images/yourimage.png) | | ![](/images/yourimage.png) |
+
+
+
 
 
 
