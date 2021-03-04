@@ -17,7 +17,7 @@ The Meta-Learning is one of the available approaches for optimization of machine
 <h2>Publications</h2>
 
 
-- Lukac, M. and Abdiyeva, K. and Bayanov, A. and Li, Albina, and Izbassarova, N. and Gabidolla, M. and Kameyama, M., Selecting Agorithms without meta-features, In Proceedings of the ICPR 2020 workshops, 1st Interntional Workshop on Industrial Machine Learning, LNCS 12664, pp. 607-621, 2021
+- Lukac, M. and Abdiyeva, K. and Bayanov, A. and Li, Albina, and Izbassarova, N. and Gabidolla, M. and Kameyama, M., Selecting Agorithms without meta-features,  In: Del Bimbo A. et al. (eds) Pattern Recognition. ICPR International Workshops and Challenges. ICPR 2021. Lecture Notes in Computer Science, vol 12664. Springer, Cham. https://doi.org/10.1007/978-3-030-68799-1_44
 - Lukac M., Izbassarova N., Li A., Kameyama M., Algorthm Selection for Non-Linearly Separable Algorithms in Computer Vision, Euromicro Workshop on ML-IoT, Online, 2018
 - Lukac M., Abdiyeva K., Kim A., Kameyama M., Reasoning and Algorithm Selection Augmented Symbolic Segmentation, IEEE Technically Sponsored Intelligent Systems Conference (IntelliSys), pp. 259-266, 2017. 
 - Lukac M., Abdiyeva K., Kameyama M., Evaluation of Component Algorithms in an Algorithm Selection Approach to Semantic Segmentation Based on High-Level Information Feedback, Radio Electronics, Computer Science, Control, No. 1, 2016, pp. 92-100, DOI 10.15588/1607-3274-2016-1-11 
