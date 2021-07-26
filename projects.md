@@ -16,7 +16,7 @@ permalink: /projects/
 
 | Live-feeling Communication             |  | Meta Learning                   |  | Quantum Computing | | **Bio-Medical Applications** | | **Models of Neural Networks** | |**Neuro-Cryptography** | | **ACeSYRI** |
 |  ----  | ---- | ----  | ---- | ----  |  ----  | ---- | ----  | ---- | ----  |  ----  | ---- | ----  |
-| [![live-Feeling Communication](/images/1.png)](/projects/lfc) | | [![Algorithm Selection](/images/2.png)](/projects/as) | | [![Quantum Computing](/images/4.png)](/projects/quantum)|| [![Bio-Medical Data Collection and Analysis](/images/5.png)](/projects/biomed)| | [![Optimal Models of Neural Networks](/images/7.png)](/projects/ai) | | ![Neuro-Cryptography](/images/3.png)(/projects/neurocrypt)||<img src="/images/6.png" width=300px>/project/acesyri</src>|
+| [![live-Feeling Communication](/images/1.png)](/projects/lfc) | | [![Algorithm Selection](/images/2.png)](/projects/as) | | [![Quantum Computing](/images/4.png)](/projects/quantum)|| [![Bio-Medical Data Collection and Analysis](/images/5.png)](/projects/biomed)| | [![Optimal Models of Neural Networks](/images/7.png)](/projects/ai) | | ![Neuro-Cryptography](/images/3.png)(/projects/neurocrypt)||<a href="/project/acesyri"><img alt="acesyri" src="/images/6.png"width=150" height="150"></a>|
 
 
 
