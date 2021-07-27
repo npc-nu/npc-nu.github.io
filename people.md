@@ -26,11 +26,11 @@ permalink: /people/
 
 <h4>External Collaborators</h4>
 
-| Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali |  | Michitaka Kameyama |  | Oliver Keszoecze  |
-|  ----  | ---- | ----  | ---- | ----  |
+| **Alessandra Clementi** |   | **Ferdinand Molnar** |  | **Syed Ali** |  | **Michitaka Kameyama** |  | **Oliver Keszoecze**  |
+|  ----  | ---- | ----  | ---- | ----  | ---- | ----  | ---- | ----  | 
 | <img title="Alessandra Clementi" src="/images/yourimage.png" height="200"/> |  | <img title="Ferdinand Molnar" src="/images/ferdinand.png" height="200"/>  |  | <img title="Syed Ali" src="/images/yourimage.png" height="200"/>  |  | <img title="Michitaka Kameyama" src="/images/ferdinand.png" height="200"/>  |  | <img title="Oliver Keszoecze" src="/images/yourimage.png" height="200"/>  |
-| Krzysztof Podlaski | | Claudio Moraga |
-| <img title="Krzysztof Podlaski" src="/images/yourimage.png" height="200"/> |  | <img title="Claudio Moraga" src="/images/yourimage.png" height="200"/> |
+| **Krzysztof Podlaski** | | **Claudio Moraga** | | **Martin Mokros**  |  | **Martin Lukac**  |  | ****  | 
+| <img title="Krzysztof Podlaski" src="/images/yourimage.png" height="200"/> |  | <img title="Claudio Moraga" src="/images/yourimage.png" height="200"/> |  | <img title="Martin Mokros" src="/images/yourimage.png" height="200"/> |  | <img title="Martin Lukac" src="/images/yourimage.png" height="200"/> |    | <img title="" src="/images/yourimage.png" height="200"/> |
 
 <h3>Past</h3>
 *Marat Isteleyev*
