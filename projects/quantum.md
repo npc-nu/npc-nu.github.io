@@ -5,6 +5,7 @@ title: Quantum Computing
 <h2>Quatum Circuits Design and Optimization Group</h2>
 
 - Design of Quantum Circuits for the Gated Quantum Computers
+
 - XBOOLE Simulation of Quantum Circuits
 
 <h3> Publications</h3>
@@ -17,8 +18,11 @@ title: Quantum Computing
 <h2>Algorithms and Functions Study Group</h2>
   
 - Bent functions Classification and Study
+
 - Reversible Symmetric functions Study and Classification
+
 - Reversible and Quantum Finite State Machines Analysis
+
 - Quantum algorithms Templates
 
 <h3> Publications</h3>
