@@ -15,9 +15,9 @@ permalink: /people/
 | **Dzhamshed Khaitov** |  | ****  | | **Saltanat Khalyk** |  | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  
 | <img title="Dzhamshed Khaitov" src="/images/dzhamshed1.png" height="200"/> |  | <img title="" src="/images/yourimage.png" height="200"/> |  | <img title="Saltanat Khalyk" src="/images/saltanat.png" height="200"/> | | <img title="Saadat Nursultan" src="/images/saadat1.png" height="200"/>  | | <img title="Kairat Parpiyev" src="/images/kairat.png" height="200"/>| 
 | **Sherkhan Azimov** |  | **Rustem Turtayev** | | **Nurdaulet Mukhituly** |  | **Kanat Alimanov**  |  | **Gulnaz Shambulova** | 
-| ![Sherkhan Azimov](/images/sherkhan.png) | | ![Rustem Turtayev](/images/rustem.png) | | ![Nurdaulet Mukhituly](/images/minionB.png)  | | [](/images/yourimage.png) | | ![Gulnaz Shambulova](/images/gulnazZ.png) | 
+|  <img title="Sherkhan Azimov" src="/images/sherkhan.png" height="200"/> | |  <img title="Rustem Turtayev" src="/images/rustem.png" height="200"/> | | <img title="Nurdaulet Mukhituly" src="/images/minionB.png" height="200"/>   | |  <img title="" src="/images/yourimage.png" height="200"/> | |  <img title="Gulnaz Shambulova" src="/images/gulnazZ.png" height="200"/> | 
 | **Tagir Nukenov** | | **** |  | ****  |  | **** |  | **** |
-| ![Tagir Nukenov](/images/minonsZ.png) || [](/images/yourimage.png)  | | [](/images/yourimage.png) | | ![](/images/yourimage.png) | | ![](/images/yourimage.png) |
+|  <img title="Tagir Nukenov" src="/images/minonsZ.png" height="200"/> ||  <img title="" src="/images/yourimage.png" height="200"/>  | |  <img title="" src="/images/yourimage.png" height="200"/> | |  <img title="" src="/images/yourimage.png" height="200"/> | |  <img title="" src="/images/yourimage.png" height="200"/>|
 
 
 
