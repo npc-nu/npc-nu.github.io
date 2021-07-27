@@ -12,7 +12,7 @@ Currently, we are working on the following components:
   - Gaze Prediction
   - Emotion Recognition
 
- <h2>Publications</h2>
+ <h3>Publications</h3>
  
  - Lukac M., Kameyama M., Migranva Y., Live-Feeling Communication: Multi-Algorithm Approach to the Estimation of Human Intentions, IEEE SMC, pp. 2152-2157, 2017 
  - Lukac M., Oteniyaz G., Modeling Human Intention in a Live-Feeling Platform, International Conference on Cognitive Modeling (ICCM), pp. 270-272, 2016 
