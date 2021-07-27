@@ -13,7 +13,7 @@ permalink: /people/
 |  ----  | ---- | ----  | ---- | ----  | ---- | ----  | ---- | ----  | 
 | <img title="Martin Lukac" src="/images/lukac.jpg" height="200"/>| | <img title="Kamila Abdiyeva" src="/images/kamila.png" height="200"/> | | <img title="Aidana Irmanova" src="/images/yourimage.png" height="200"/> | | <img title="Kamilya Smagulova" src="/images/yourimage.png" height="200"/>  | | <img title="Gaziza Oteniyaz" src="/images/gaziza.png" height="200"/> | 
 | **Dzhamshed Khaitov** |  | ****  | | **Saltanat Khalyk** |  | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  
-| ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | [](/images/yourimage.png)  |  | ![Saltanat Khalyk](/images/saltanat.png)  | | ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/kairat.png) | 
+| <img title="Gaziza Oteniyaz" src="/images/gaziza.png" height="200"/>![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | <img title="Gaziza Oteniyaz" src="/images/gaziza.png" height="200"/>[](/images/yourimage.png)  |  | <img title="Gaziza Oteniyaz" src="/images/saltanat.png" height="200"/> ![Saltanat Khalyk](/images/saltanat.png)  | | <img title="Gaziza Oteniyaz" src="/images/saadat1.png" height="200"/>(/images/saadat1.png)  | | <img title="Gaziza Oteniyaz" src="/images/kairat.png" height="200"/>![Kairat Parpiyev] | 
 | **Sherkhan Azimov** |  | **Rustem Turtayev** | | **Nurdaulet Mukhituly** |  | **Kanat Alimanov**  |  | **Gulnaz Shambulova** | 
 | ![Sherkhan Azimov](/images/sherkhan.png) | | ![Rustem Turtayev](/images/rustem.png) | | ![Nurdaulet Mukhituly](/images/minionB.png)  | | [](/images/yourimage.png) | | ![Gulnaz Shambulova](/images/gulnazZ.png) | 
 | **Tagir Nukenov** | | **** |  | ****  |  | **** |  | **** |
@@ -28,7 +28,7 @@ permalink: /people/
 
 | Alessandra Clementi |   | Ferdinand Molnar |  | Syed Ali |
 |  ----  | ---- | ----  | ---- | ----  |
-| ![Alessandra Clementi](/images/yourimage.png)  |  | ![Ferdinand Molnar](/images/ferdinand.png)  |  | ![Syed Ali](/images/yourimage.png)  |
+| <img title="Alessandra Clementi" src="/images/yourimage.png" height="200"/> |  | <img title="Ferdinand Molnar" src="/images/ferdinand.png" height="200"/>  |  | <img title="Syed Ali" src="/images/yourimage.png" height="200"/>  |
 
 
 <h3>Past</h3>
