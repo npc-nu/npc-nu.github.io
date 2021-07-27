@@ -13,6 +13,6 @@ The newly started group of biomedical computing started a first project in Cough
 A cooperative research into automation of discovery and repurposing of known drugs for specific viral and bacterial diagnosis. We cooperate with medical experts, biochemists in order to develop autonomous tools for fast and accurate drug design
 
 
-<h2> Publications</h2>
+<h3> Publications</h3>
 
 - Abidi S.H., Amerzhanov D., Rafaqat W., Lukac M., La Fleur P., Ali S., ,Repurposing potential of posaconazole and grazoprevir as inhibitors of SARS-CoV-2 Helicase, Nature Scientific Reports, accepted, 2021 
