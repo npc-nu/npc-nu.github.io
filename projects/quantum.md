@@ -5,10 +5,9 @@ title: Quantum Computing
 <h2>Quatum Circuits Design and Optimization Group</h2>
 
 - Design of Quantum Circuits for the Gated Quantum Computers
-
 - XBOOLE Simulation of Quantum Circuits
 
-<h2> Publications</h2>
+<h3> Publications</h3>
 
 - Lukac, M. and Krylov G., Geometric Refactoring of Quantum and Reversible Circuits: Quantum Layout, Reed-Muller Workshop, 2019
 - Krylov, G. and Lukac, M., Quantum Encoded Quantum Evolutionary Algorithm for the Design of Quantum Circuits, ACM Computational Frontiers, 2019 
@@ -25,7 +24,7 @@ title: Quantum Computing
 
 - Quantum algorithms Templates
 
-<h2> Publications</h2>
+<h3> Publications</h3>
 
 - Lukac, M. and El-Fakih, K.,  On Distinguishing Sequences of Several Classes of Reversible Finite State Machines, IEEE ISMVL 2021
 - Lukac, M. and Nursultan, S. and Krylov, G. and Keszoecze, O., Refactoring Quantum and Reversible Circuits, International Workshop on Quantum Compilation, 2020
