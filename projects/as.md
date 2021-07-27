@@ -14,7 +14,7 @@ The Meta-Learning is one of the available approaches for optimization of machine
   
   - Reasoning for algorithm selection
 
-<h2>Publications</h2>
+<h3>Publications</h3>
 
 
 - Lukac, M. and Abdiyeva, K. and Bayanov, A. and Li, Albina, and Izbassarova, N. and Gabidolla, M. and Kameyama, M., Selecting Agorithms without meta-features,  In: Del Bimbo A. et al. (eds) Pattern Recognition. ICPR International Workshops and Challenges. ICPR 2021. Lecture Notes in Computer Science, vol 12664. Springer, Cham. https://doi.org/10.1007/978-3-030-68799-1_44
