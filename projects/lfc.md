@@ -2,7 +2,7 @@
 layout: project
 title: Human-Machine Interaction
 ---
-<h1> Live-Feeling Communication (LFC)</h1>
+<h2> Live-Feeling Communication (LFC)</h2>
 
 The Live-Feeling Communication group works on real-time Human-Machine interface for personalized content delivery. The project contains several components: human face capture and emotion recognition, human-gaze football game prediction, live-stream football game manipulation, multi-modal data fusion and human intention estimation. 
 
