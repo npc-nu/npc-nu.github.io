@@ -17,11 +17,8 @@ title: Quantum Computing
 <h2>Algorithms and Functions Study Group</h2>
   
 - Bent functions Classification and Study
-
 - Reversible Symmetric functions Study and Classification
-
 - Reversible and Quantum Finite State Machines Analysis
-
 - Quantum algorithms Templates
 
 <h3> Publications</h3>
