@@ -1,2 +1,2 @@
 
-<img src="/images/welcome.jpg></src>
+<img src="/images/20191008_124248.jpg"></src>
