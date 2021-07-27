@@ -33,24 +33,25 @@ permalink: /people/
 | <img title="Krzysztof Podlaski" src="/images/yourimage.png" height="200"/> |  | <img title="Claudio Moraga" src="/images/yourimage.png" height="200"/> |  | <img title="Martin Mokros" src="/images/yourimage.png" height="200"/> |  | <img title="Martin Lukac" src="/images/yourimage.png" height="200"/> |    | <img title="" src="/images/yourimage.png" height="200"/> |
 
 <h3>Past</h3>
-*Marat Isteleyev*
 
-*Gulnaz Sterling*
+Marat Isteleyev
 
-*Nurperzent Shaidulin*
+Gulnaz Sterling
 
-*Sanzhar Shabdarov*
+Nurperzent Shaidulin
 
-*Nazerke Turtayeva*
+Sanzhar Shabdarov
 
-*Ayazkhan Bayanov*
+Nazerke Turtayeva
 
-*Daniyar Kultayev*
+Ayazkhan Bayanov
 
-*Nurzhan Sakenov* 
+Daniyar Kultayev
 
-*Mukhit Yelemes*
+Nurzhan Sakenov
 
-*Mansur Oshanov*
+Mukhit Yelemes
 
-*Temirlan Turysbek*
+Mansur Oshanov
+
+Temirlan Turysbek
