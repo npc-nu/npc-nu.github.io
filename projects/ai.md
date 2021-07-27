@@ -13,7 +13,7 @@ Currently the Artificial Intelligence group is investigating Convolutional Neura
    
    - Provide a theory for understanding the learning and inference processes (Explainable AI)
    
-<h2>Publications</h2>
+<h3>Publications</h3>
 
 
 - Abdiyeva, K. and Lukac, M. and Ahuja, N., Remove to Improve?, In: Del Bimbo A. et al. (eds) Pattern Recognition. ICPR International Workshops and Challenges. ICPR 2021. Lecture Notes in Computer Science, vol 12663. Springer, Cham. https://doi.org/10.1007/978-3-030-68796-0_11
