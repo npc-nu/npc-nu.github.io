@@ -11,7 +11,7 @@ permalink: /people/
 
 | **Martin Lukac** |   | **Kamila Abdiyeva** |   | **Aidana Irmanova** |   | **Kamilya Smagulova** | |  **Gaziza Oteniyaz**  |  
 |  ----  | ---- | ----  | ---- | ----  | ---- | ----  | ---- | ----  | 
-| <img alt="acesyri" src="/images/lukac.jgg" width="250" height="250"/><\src>| | ![Kamila Abdiyeva](/images/kamila.png) | | [](/images/yourimage.png)  | | [](/images/yourimage.png)  | |  ![Gaziza Oteniyaz](/images/gaziza.png)  | 
+| <img alt="acesyri" src="/images/lukac.jgg" width="250" height="250"/></src>| | ![Kamila Abdiyeva](/images/kamila.png) | | [](/images/yourimage.png)  | | [](/images/yourimage.png)  | |  ![Gaziza Oteniyaz](/images/gaziza.png)  | 
 | **Dzhamshed Khaitov** |  | ****  | | **Saltanat Khalyk** |  | **Saadat Nursultan** |  | **Kairat Parpiyev**  |  
 | ![Dzhamshed Khaitov](/images/dzhamshed1.png)  |  | [](/images/yourimage.png)  |  | ![Saltanat Khalyk](/images/saltanat.png)  | | ![Saadat Nursultan](/images/saadat1.png)  | | ![Kairat Parpiyev](/images/kairat.png) | 
 | **Sherkhan Azimov** |  | **Rustem Turtayev** | | **Nurdaulet Mukhituly** |  | **Kanat Alimanov**  |  | **Gulnaz Shambulova** | 
