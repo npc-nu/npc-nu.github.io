@@ -34,24 +34,24 @@ permalink: /people/
 
 <h3>Past</h3>
 
-Marat Isteleyev
+- Marat Isteleyev
 
-Gulnaz Sterling
+- Gulnaz Sterling
 
-Nurperzent Shaidulin
+- Nurperzent Shaidulin
 
-Sanzhar Shabdarov
+- Sanzhar Shabdarov
 
-Nazerke Turtayeva
+- Nazerke Turtayeva
 
-Ayazkhan Bayanov
+- Ayazkhan Bayanov
 
-Daniyar Kultayev
+- Daniyar Kultayev
 
-Nurzhan Sakenov
+- Nurzhan Sakenov
 
-Mukhit Yelemes
+- Mukhit Yelemes
 
-Mansur Oshanov
+- Mansur Oshanov
 
-Temirlan Turysbek
+- Temirlan Turysbek
