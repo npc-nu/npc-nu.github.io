@@ -35,9 +35,7 @@ permalink: /people/
 <h3>Past</h3>
 
 - Marat Isteleyev
-
 - Gulnaz Sterling
-
 - Nurperzent Shaidulin
 
 - Sanzhar Shabdarov
