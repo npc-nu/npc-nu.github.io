@@ -16,8 +16,8 @@ permalink: /people/
 | <img title="Assylan Akimbayev" src="/images/assylan.png" height="200"/> |  |  <img title="Saltanat Khalyk" src="/images/saltanat.png" height="200"/> | | <img title="Zhanat Adilkhanuly" src="/images/Zhanat A.png" height="200"/>  | | <img title="Raushan Molnar" src="/images/minion_girl.png" height="200"/>| |  <img title="Sherkhan Azimov" src="/images/sherkhan.png" height="200"/> |
  | **Daulegali Karim** | | **Nurdaulet Mukhituly** |  | **Kanat Alimanov**  |  | **Gulnaz Shambulova** | | **Tagir Nukenov** |
  |  <img title="Dauletgali Karim" src="/images/dauletgali.jpg" height="200"/> | | <img title="Nurdaulet Mukhituly" src="/images/minionB.png" height="200"/>   | |  <img title="" src="/images/minonsP.png" height="200"/> | |  <img title="Gulnaz Shambulova" src="/images/gulnazZ.png" height="200"/> | |  <img title="Tagir Nukenov" src="/images/minonsZ.png" height="200"/> |
- | **Aigerim Bauyrzhanova** |  | **Assylan Akimbayev**  | | **Sultan Bauyrzhanuly** |  | **Batyrbek Mukhatbekov**  | 
-|  <img title="Aigerim Bauyrzhanova " src="/images/minion_girl.png" height="200"/>  | |  <img title="Assylan Akimbayev" src="/images/minionO.png" height="200"/> | | <img title="Nurdaulet Mukhituly" src="/images/minionB.png" height="200"/>   | |  <img title="" src="/images/minonsP.png" height="200"/> | 
+ | **Aigerim Bauyrzhanova** |  | **Assylan Akimbayev**  | | **Sultan Bauyrzhanuly** |  | **Batyrbek Mukhatbekov**  | | **Dias Baimukhanov**|
+|  <img title="Aigerim Bauyrzhanova " src="/images/minion_girl.png" height="200"/>  | |  <img title="Assylan Akimbayev" src="/images/minionO.png" height="200"/> | | <img title="Nurdaulet Mukhituly" src="/images/minionB.png" height="200"/>   | |  <img title="" src="/images/minonsP.png" height="200"/> |  | <img title="" src="/images/minionO.png" height="200"/>  | 
 
 
 
