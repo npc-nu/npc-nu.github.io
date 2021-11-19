@@ -14,8 +14,8 @@ permalink: /people/
 | <img title="Martin Lukac" src="/images/lukac.jpg" height="200"/>| | <img title="Kamila Abdiyeva" src="/images/kamila.png" height="200"/> | | <img title="Aidana Irmanova" src="/images/minion_girl.png" height="200"/> | | <img title="Kamilya Smagulova" src="/images/minionO.png" height="200"/>  | | <img title="Gaziza Oteniyaz" src="/images/gaziza.png" height="200"/> | 
 | **Assylan Akimbayev** |  |  **Saltanat Khalyk** |  | **Zhanat Adilkhanuly** |  | **Raushan Molnar**  |  | **Sherkhan Azimov** | 
 | <img title="Assylan Akimbayev" src="/images/assylan.png" height="200"/> |  |  <img title="Saltanat Khalyk" src="/images/saltanat.png" height="200"/> | | <img title="Zhanat Adilkhanuly" src="/images/Zhanat A.png" height="200"/>  | | <img title="Raushan Molnar" src="/images/minion_girl.png" height="200"/>| |  <img title="Sherkhan Azimov" src="/images/sherkhan.png" height="200"/> |
- | **DAulegali Karim** | | **Nurdaulet Mukhituly** |  | **Kanat Alimanov**  |  | **Gulnaz Shambulova** | | **Tagir Nukenov** |
- |  <img title="Dauletgali Karim" src="/images/dauletgali.png" height="200"/> | | <img title="Nurdaulet Mukhituly" src="/images/minionB.png" height="200"/>   | |  <img title="" src="/images/minonsP.png" height="200"/> | |  <img title="Gulnaz Shambulova" src="/images/gulnazZ.png" height="200"/> | |  <img title="Tagir Nukenov" src="/images/minonsZ.png" height="200"/> |
+ | **Daulegali Karim** | | **Nurdaulet Mukhituly** |  | **Kanat Alimanov**  |  | **Gulnaz Shambulova** | | **Tagir Nukenov** |
+ |  <img title="Dauletgali Karim" src="/images/dauletgali.jpg" height="200"/> | | <img title="Nurdaulet Mukhituly" src="/images/minionB.png" height="200"/>   | |  <img title="" src="/images/minonsP.png" height="200"/> | |  <img title="Gulnaz Shambulova" src="/images/gulnazZ.png" height="200"/> | |  <img title="Tagir Nukenov" src="/images/minonsZ.png" height="200"/> |
  | **Aigerim Bauyrzhanova** |  | **Assylan Akimbayev**  | 
 |  <img title="Aigerim Bauyrzhanova " src="/images/minion_girl.png" height="200"/>  | |  <img title="Assylan Akimbayev" src="/images/minionO.png" height="200"/> |
 
